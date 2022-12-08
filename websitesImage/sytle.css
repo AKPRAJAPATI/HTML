@@ -1,0 +1,16 @@
+.hero_image
+{
+    background : url(download.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+/* Section ke kisi bhi child ko center karane ke liye pahle hamko vo absolute banana hoga bhi relative banana hoga */
+.hero_wrapper
+{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

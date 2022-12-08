@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(51, 153, 82);
+}
+ #par{
+    border: 2px  solid red;
+     padding: 5px;
+     margin: 20px;
+ }
+ #ak{
+    color: #ffffff;
+    border: 2px solid black;
+    margin: 0;
+    font-size: 22px;
+    padding: 0;
+ }
+ .{
+    color: #ffffff;
+    border: 2px solid black;
+    margin: 0;
+    font-size: 22px;
+    padding: 0;
+ }

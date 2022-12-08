@@ -1,0 +1,14 @@
+.hero_wrapper
+{
+    background: url(krishan.png) no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+#hero_wrapper
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+}
